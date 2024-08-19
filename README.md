@@ -1,6 +1,7 @@
 # Advice Generator App
 
-![Design preview for the Advice generator app coding challenge](image/originalchallenge.png)
+![Desktop design preview for the Advice generator app coding challenge](image/desktopview.jpeg)
+![Mobile design preview for the Advice generator app coding challenge](image/mobileview.jpeg)
 
 ## Hello 👋
 
@@ -16,7 +17,7 @@ Users should be able to:
 
 ### My Own Twist
 
-![Error message for my own advice api](image/addedpages.png)
+![Added Menu and additional pages](image/menuondesktop.jpeg)
 
 - Things I added:
   - a menu function
@@ -26,7 +27,7 @@ Users should be able to:
     
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Random Advice Generator Web App](https://advice-generator-by-gbemi.vercel.app/index.html)
 
 ## My process
 
