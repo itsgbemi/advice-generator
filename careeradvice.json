@@ -32,7 +32,7 @@
     {
       "id": 6,
       "label": "Advice #006",
-      "content": "Manage your time effectively and prioritize task."
+      "content": "Manage your time effectively and prioritize tasks."
     },
     {
       "id": 7,
@@ -99,6 +99,7 @@
       "label": "Advice #019",
       "content": "Establish a professional identity that reflects your values and expertise."
     },
+    {
       "id": 20,
       "label": "Advice #020",
       "content": "Look for ways to advance in your current role or industry."
@@ -113,6 +114,7 @@
       "label": "Advice #022",
       "content": "Develop the ability to bounce back from setbacks."
     },
+    {
       "id": 23,
       "label": "Advice #023",
       "content": "Use constructive criticism to improve and grow."
@@ -122,6 +124,7 @@
       "label": "Advice #024",
       "content": "Document your achievements."
     },
+    {
       "id": 25,
       "label": "Advice #025",
       "content": "Be ready to adapt to industry shifts and new technologies."
@@ -133,7 +136,7 @@
     },
     {
       "id": 27,
-      "label": "Advice #028",
+      "label": "Advice #027",
       "content": "Participate in conferences, seminars, and workshops to stay informed and network."
     },
     {
@@ -172,7 +175,7 @@
       "content": "Be accountable."
     },
     {
-       "id": 35,
+      "id": 35,
       "label": "Advice #035",
       "content": "Stay focused."
     },
@@ -182,4 +185,4 @@
       "content": "Look for roles that push you out of your comfort zone and help you grow."
     }
   ]
-}    
+}
