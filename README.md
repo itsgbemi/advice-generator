@@ -1,6 +1,6 @@
 # Advice Generator App
 
-![Design preview for the Advice generator app coding challenge](./image/originalchallenge.png)
+![Design preview for the Advice generator app coding challenge](advicegenerator/image/originalchallenge.png)
 
 ## Hello 👋
 
@@ -16,7 +16,7 @@ Users should be able to:
 
 ### My Own Twist
 
-![Added my own twist](./image/addedpages.png)
+![Added my own twist](advicegenerator/image/addedpages.png)
 
 - Things I added:
   - a menu function
