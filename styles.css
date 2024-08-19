@@ -184,7 +184,7 @@ body {
   box-shadow: 0 0 10px #4affa9, 0 0 20px #4affa9, 0 0 30px #4affa9;
 }
 
-@media (min-width: 601px) {
+@media (min-width: 481px) {
   /* Show desktop divider on larger screens */
   .pattern-divider-desktop {
     display: block;
@@ -200,7 +200,7 @@ body {
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 480px) {
   .advice-box {
     width: 280px;
     padding: 20px;
@@ -215,14 +215,14 @@ body {
   }
 
   .icon-dice {
-    width: 30px;
-    height: 30px;
+    width: 50px;
+    height: 50px;
     padding: 8px;
   }
 
   .icon-dice img {
-    width: 15px;
-    height: 15px;
+    width: 25px;
+    height: 25px;
   }
 
   .menu-content {
