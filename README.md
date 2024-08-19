@@ -28,6 +28,7 @@ Users should be able to:
 ### Links
 
 - Live Site URL: [Random Advice Generator Web App](https://advice-generator-by-gbemi.vercel.app/index.html)
+- Solution URL: [On Frontendmentor.io](https://www.frontendmentor.io/solutions/advice-generator-app-using-html-css-js-and-ai--WC4tMV5Pa)
 
 ## My process
 
