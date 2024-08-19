@@ -16,7 +16,7 @@ Users should be able to:
 
 ### My Own Twist
 
-![Added my own twist](advicegenerator/image/addedpages.png)
+![Error message for my own advice api](advicegenerator/image/addedpages.png)
 
 - Things I added:
   - a menu function
