@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2024-08-17"
+  },
+  "advice": [
+    {
+      "id": 1,
+      "label": "Advice #001",
+      "content": "Take care of your mental health."
+    },
+    {
+      "id": 2,
+      "label": "Advice #002",
+      "content": "Begin each day with an activity that brings you joy and laughter to positively influence your mood."
+    },
+    {
+      "id": 3,
+      "label": "Advice #003",
+      "content": "Stay hydrated."
+    },
+    {
+      "id": 4,
+      "label": "Advice #004",
+      "content": "Limit your consumption of processed foods."
+    },
+    {
+      "id": 5,
+      "label": "Advice #005",
+      "content": "Exercise regularly."
+    },
+    {
+      "id": 6,
+      "label": "Advice #006",
+      "content": "Choose physical activities that you find enjoyable to make exercise a sustainable habit."
+    },
+    {
+      "id": 7,
+      "label": "Advice #007",
+      "content": "Schedule routine medical check-ups to monitor and maintain your health."
+    },
+    {
+      "id": 8,
+      "label": "Advice #008",
+      "content": "Limit your alcohol intake."
+    },
+    {
+      "id": 9,
+      "label": "Advice #009",
+      "content": "Avoid emotional eating."
+    },
+    {
+      "id": 10,
+      "label": "Advice #010",
+      "content": "Practice self-care."
+    },
+    {
+      "id": 11,
+      "label": "Advice #011",
+      "content": "Limit your screen time."
+    },
+    {
+      "id": 12,
+      "label": "Advice #012",
+      "content": "Prioritize whole, unprocessed foods over packaged or convenience foods."
+    },
+    {
+      "id": 13,
+      "label": "Advice #013",
+      "content": "Use deep breathing exercises to reduce stress and enhance relaxation."
+    },
+    {
+      "id": 14,
+      "label": "Advice #014",
+      "content": "Participate in activities and hobbies that keep you mentally and emotionally engaged."
+    },
+    {
+      "id": 15,
+      "label": "Advice #015",
+      "content": "Practice good hygiene."
+    },
+    {
+      "id": 16,
+      "label": "Advice #016",
+      "content": "Eat fiber-rich foods like vegetables, fruits, and whole grains to support digestion."
+    },
+    {
+      "id": 17,
+      "label": "Advice #017",
+      "content": "Maintain a healthy work-life balance."
+    },
+    {
+      "id": 18,
+      "label": "Advice #018",
+      "content": "Identify and manage triggers that lead to emotional eating or unhealthy habits."
+    },
+    {
+      "id": 19,
+      "label": "Advice #019",
+      "content": "Plan your meals ahead of time to make healthy choices easier"
+    }
+  ]
+}    
