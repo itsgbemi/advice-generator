@@ -99,6 +99,7 @@
       "label": "Advice #019",
       "content": "Provide constructive feedback in a loving manner."
     },
+    {
       "id": 20,
       "label": "Advice #020",
       "content": "Respect and honor the values and beliefs of others."
@@ -113,6 +114,7 @@
       "label": "Advice #022",
       "content": "Avoid holding grudges and practice forgiveness."
     },
+    {
       "id": 23,
       "label": "Advice #023",
       "content": "Offer emotional support during difficult times."
@@ -153,4 +155,4 @@
       "content": "Improve your ability to understand and manage your own emotions and those of others."
     }
   ]
-}    
+}
