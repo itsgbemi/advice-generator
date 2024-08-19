@@ -10,7 +10,7 @@
 
     let adviceList = [];
 
-    fetch('api/careeradvice.json')
+    fetch('careeradvice.json')
       .then(response => response.json())
       .then(data => {
         adviceList = data;
