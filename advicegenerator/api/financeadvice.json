@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2024-08-17"
+  },
+  "advice": [
+    {
+      "id": 1,
+      "label": "Advice #001",
+      "content": "Track your income and expenses to understand your spending habits."
+    },
+    {
+      "id": 2,
+      "label": "Advice #002",
+      "content": "Build an emergency fund."
+    },
+    {
+      "id": 3,
+      "label": "Advice #003",
+      "content": "Invest wisely."
+    },
+    {
+      "id": 4,
+      "label": "Advice #004",
+      "content": "Avoid high-interest debt."
+    },
+    {
+      "id": 5,
+      "label": "Advice #005",
+      "content": "Define short-term and long-term financial objectives and create a plan to achieve them."
+    },
+    {
+      "id": 6,
+      "label": "Advice #006",
+      "content": "Regularly check and work to improve your credit rating."
+    },
+    {
+      "id": 7,
+      "label": "Advice #007",
+      "content": "Spend less than you earn and avoid lifestyle inflation."
+    },
+    {
+      "id": 8,
+      "label": "Advice #008",
+      "content": "Educate yourself about taxes."
+    },
+    {
+      "id": 9,
+      "label": "Advice #009",
+      "content": "Track your net worth."
+    },
+    {
+      "id": 10,
+      "label": "Advice #010",
+      "content": "Regularly revisit and modify your budget to reflect changes in your financial situation."
+    },
+    {
+      "id": 11,
+      "label": "Advice #011",
+      "content": "Protect yourself against identity theft."
+    },
+    {
+      "id": 12,
+      "label": "Advice #012",
+      "content": "Understand your spending habits."
+    },
+    {
+      "id": 13,
+      "label": "Advice #013",
+      "content": "Develop multiple streams of income."
+    }
+  ]
+}

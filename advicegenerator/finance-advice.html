@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A random finance advice generator web app. Get random pieces of advice that can help you manage your finances.">
+  <meta name="keywords" content="advice, finance advice, money advice">
+  <meta name="author" content="Gbemisola Oyeniyi">
+  <meta name="robots" content="index, follow">
+
+  <!-- Security Meta Tags -->
+  <meta http-equiv="X-Frame-Options" content="deny">
+  <meta name="referrer" content="no-referrer">
+
+  <!-- Favicon -->
+  <meta name="theme-color" content="#202632">
+  <link rel="icon" href="favicon.png" type="image/x-icon">
+
+  <title>Finance Advice Generator Web App</title>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap" rel="stylesheet">
+  <!-- Link to the external CSS file -->
+  <link rel="stylesheet" href="styles/others.css">
+</head>
+
+<body>
+  <div class="header">
+    <div class="menu-icon">☰</div>
+    <div class="page-name">FINANCE ADVICE</div>
+    <div class="page-number">06</div>
+  </div>
+
+  <div class="menu-content">
+    <a href="index.html" class="link">Random</a>
+    <a href="life-advice.html" class="link">Life</a>
+    <a href="career-advice.html" class="link">Career</a>
+    <a href="health-advice.html" class="link">Health</a>
+    <a href="relationship-advice.html" class="link">Love</a>
+    <a href="finance-advice.html" class="link active">Finance</a>
+    <a href="https://github.com/itsgbemi/advice-generator" target="_blank" class="link">About</a>
+  </div>
+
+  <div class="advice-container">
+    <div class="advice-box">
+      <p class="advice-number" id="adviceNumber">ADVICE #001</p>
+      <p class="advice-text" id="adviceText">"Loading advice..."</p>
+
+      <!-- Pattern Divider -->
+      <img src="image/pattern-divider-desktop.svg" class="pattern-divider pattern-divider-desktop" alt="Pattern Divider for Desktop">
+      <img src="image/pattern-divider-mobile.svg" class="pattern-divider pattern-divider-mobile" alt="Pattern Divider for Mobile">
+
+      <!-- Dice Icon -->
+      <div class="icon-dice" id="shuffleAdvice" aria-label="Shuffle Advice" role="button">
+        <img src="image/icon-dice.svg" alt="Dice Icon">
+      </div>
+    </div>
+  </div>
+
+  <!-- Link to the external JavaScript file -->
+  <script src="scripts/finance.js"></script>
+</body>
+</html>
