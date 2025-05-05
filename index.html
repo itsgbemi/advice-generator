@@ -21,6 +21,14 @@
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap" rel="stylesheet">
   <!-- Link to the external CSS file -->
   <link rel="stylesheet" href="styles.css">
+
+              <script>
+              (function() {
+                  fetch("https://api.v2.crowdapp.io/workspace/script?pid=6c43a88e-8547-4667-8a24-86166ffb09f3")
+                  .then(response => response.json())
+                  .then(data => {data.data.forEach((e)=>{const sc = document.createElement('script');e.src ? sc.src = e.src : ()=>{};e.defer ? sc.defer = true : ()=>{};e.attributes.forEach((a)=>{sc.setAttribute(a.name,a.value)});e.text ? sc.text = e.text : ()=>{};e.type ? sc.type = e.type : ()=>{};document.head.appendChild(sc)})}).catch(error => console.error('Error loading scripts:', error));
+              })();
+              </script>  
 </head>
 
 <body>
