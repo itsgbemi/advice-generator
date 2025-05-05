@@ -22,13 +22,14 @@
   <!-- Link to the external CSS file -->
   <link rel="stylesheet" href="styles.css">
 
+
               <script>
               (function() {
-                  fetch("https://api.v2.crowdapp.io/workspace/script?pid=6c43a88e-8547-4667-8a24-86166ffb09f3")
+                  fetch("https://api.v2.crowdapp.io/workspace/script?pid=2de7366f-cfe5-49c4-a1f2-89a4fdde6bb9")
                   .then(response => response.json())
                   .then(data => {data.data.forEach((e)=>{const sc = document.createElement('script');e.src ? sc.src = e.src : ()=>{};e.defer ? sc.defer = true : ()=>{};e.attributes.forEach((a)=>{sc.setAttribute(a.name,a.value)});e.text ? sc.text = e.text : ()=>{};e.type ? sc.type = e.type : ()=>{};document.head.appendChild(sc)})}).catch(error => console.error('Error loading scripts:', error));
               })();
-              </script>  
+              </script>
 </head>
 
 <body>
